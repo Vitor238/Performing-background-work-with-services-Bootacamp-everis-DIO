@@ -1,4 +1,3 @@
-# Performing Background Work with Services
-
-Exercício prático sobre implementação de services, realize o clone do projeto e faça checkout para a branch exercise-service, a branch exercise-service-completed possui o exercício resolvido para consulta.
+# Performing Background Work with Services - Bootcamp everis DIO
+Exercício prático sobre implementação de services do curso Trabalhando com processamento assíncrono no Android do [bootcamp everis Kotlin Developer](https://digitalinnovation.one/bootcamps/everis-kotlin-developer) na [Digital Innovation One](https://digitalinnovation.one/)
 
